@@ -1,0 +1,17 @@
+{
+    "name": "liubo/decorator",
+    "description": "装饰器模式",
+    "type": "project",
+    "authors": [
+        {
+            "name": "liubo",
+            "email": "liubo@oasgames.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
