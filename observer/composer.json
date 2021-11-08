@@ -1,6 +1,6 @@
 {
     "name": "liubo/observer",
-    "description": "bulabula",
+    "description": "观察者模式",
     "type": "project",
     "license": "Apache",
     "authors": [

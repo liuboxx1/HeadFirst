@@ -3,6 +3,7 @@
 include_once __DIR__ . "/../vendor/autoload.php";
 
 use App\Beverage\DarkRoast;
+use App\Beverage\Decant;
 use App\Beverage\Espresso;
 use App\Condiment\Mocha;
 
